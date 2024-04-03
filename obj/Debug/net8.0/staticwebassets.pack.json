@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shop_Flowers.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shop_Flowers.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\10693_pink-baby.png",
+      "PackagePath": "staticwebassets\\images\\10693_pink-baby.png"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\10704_tinh.jpg",
+      "PackagePath": "staticwebassets\\images\\10704_tinh.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\11867_tuoi-vui.jpg",
+      "PackagePath": "staticwebassets\\images\\11867_tuoi-vui.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\13144_ke-chia-buon.jpg",
+      "PackagePath": "staticwebassets\\images\\13144_ke-chia-buon.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\3199_yeu-xa.jpg",
+      "PackagePath": "staticwebassets\\images\\3199_yeu-xa.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\4840_only-you.jpg",
+      "PackagePath": "staticwebassets\\images\\4840_only-you.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\8369_my-dear.jpg",
+      "PackagePath": "staticwebassets\\images\\8369_my-dear.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\9442_hoa-may-man.jpg",
+      "PackagePath": "staticwebassets\\images\\9442_hoa-may-man.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\HOA+CUOI+DEP+VY+E364+(5)+-+Calla+++sao+xanh+++phi+yen+++baby+++la+bromus+++voan+-hoa-cuoi-cam-tay-co-dau-dep-nhat-calla-lily-rum-sang-trong.jpg",
+      "PackagePath": "staticwebassets\\images\\HOA+CUOI+DEP+VY+E364+(5)+-+Calla+++sao+xanh+++phi+yen+++baby+++la+bromus+++voan+-hoa-cuoi-cam-tay-co-dau-dep-nhat-calla-lily-rum-sang-trong.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\HOA+CUOI+DEP+VY+E419+(2)+-+Calla+++Tulip+++la+co+dong+tien-hoa-cuoi-cam-tay-co-dau-dep-nhat-calla-lily-rum-sang-trong.jpg",
+      "PackagePath": "staticwebassets\\images\\HOA+CUOI+DEP+VY+E419+(2)+-+Calla+++Tulip+++la+co+dong+tien-hoa-cuoi-cam-tay-co-dau-dep-nhat-calla-lily-rum-sang-trong.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\bo-hoa-hong-cuoi-cam-tay.jpg",
+      "PackagePath": "staticwebassets\\images\\bo-hoa-hong-cuoi-cam-tay.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\images\\hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\hoa-rum-bo-hoa-cuoi-dep.png",
+      "PackagePath": "staticwebassets\\images\\hoa-rum-bo-hoa-cuoi-dep.png"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\partner2.png",
+      "PackagePath": "staticwebassets\\images\\partner2.png"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\y-nghia-hoa-cuc-hoa-mi_8a0b4007caf240f4a6f32d45e6a414d7 (1).webp",
+      "PackagePath": "staticwebassets\\images\\y-nghia-hoa-cuc-hoa-mi_8a0b4007caf240f4a6f32d45e6a414d7 (1).webp"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\y_nghia_hoa_hong_a3efe1fd01cc435a8c85d1ddfd71748f_grande.webp",
+      "PackagePath": "staticwebassets\\images\\y_nghia_hoa_hong_a3efe1fd01cc435a8c85d1ddfd71748f_grande.webp"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\images\\z4223064312015_41614f48601350a668feab62028240ca_08a19124a372424c8c5ea9d2ec577624_grande.webp",
+      "PackagePath": "staticwebassets\\images\\z4223064312015_41614f48601350a668feab62028240ca_08a19124a372424c8c5ea9d2ec577624_grande.webp"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\056b124f-e164-4844-ae61-cbe16fe7cc75hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\056b124f-e164-4844-ae61-cbe16fe7cc75hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\06c00fb9-a664-4d57-9080-ac8a87276297hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\06c00fb9-a664-4d57-9080-ac8a87276297hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\06ff3873-15b4-4f2a-9dd9-b8686ae8a313hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\06ff3873-15b4-4f2a-9dd9-b8686ae8a313hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\143f96ec-cb71-4db1-9827-c1784fbf502ehinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\143f96ec-cb71-4db1-9827-c1784fbf502ehinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\18d3c19a-08ea-4e99-b1e7-a5eb28ff1327hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\18d3c19a-08ea-4e99-b1e7-a5eb28ff1327hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\1c0f00ff-af88-4701-b61e-32df5232af97hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\1c0f00ff-af88-4701-b61e-32df5232af97hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\1cc87a14-66a2-4d25-a096-2c106eb8436fhinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\1cc87a14-66a2-4d25-a096-2c106eb8436fhinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\1f7cca98-1cfd-4109-ad99-7debbf1fd583hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\1f7cca98-1cfd-4109-ad99-7debbf1fd583hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\235d2826-ae71-4e5d-95c4-7b18a51ccb88hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\235d2826-ae71-4e5d-95c4-7b18a51ccb88hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\253050c5-bebb-48a6-9551-c03bec4fc4eahinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\253050c5-bebb-48a6-9551-c03bec4fc4eahinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\2ac8b842-4089-4149-a548-e8ceac11101chinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\2ac8b842-4089-4149-a548-e8ceac11101chinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\2b427196-874f-435e-8121-d047dcc19fbfhinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\2b427196-874f-435e-8121-d047dcc19fbfhinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\2bfcbb42-fb8d-4d51-a98a-5f348b281056hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\2bfcbb42-fb8d-4d51-a98a-5f348b281056hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\312652eb-197b-4330-b65b-575d0e2ad836hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\312652eb-197b-4330-b65b-575d0e2ad836hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\3b72ab87-57b9-4fcc-b286-0cb16aae1896hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\3b72ab87-57b9-4fcc-b286-0cb16aae1896hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\4308ba29-924a-400b-bb43-f432d5458576hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\4308ba29-924a-400b-bb43-f432d5458576hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\4fd74182-ff6d-46aa-86b3-044a7329ef10hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\4fd74182-ff6d-46aa-86b3-044a7329ef10hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\572d8e36-9ae5-452c-9b22-eb8b732e4d044840_only-you.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\572d8e36-9ae5-452c-9b22-eb8b732e4d044840_only-you.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\5fadff49-8214-48a9-9c6c-cb096fa11d83hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\5fadff49-8214-48a9-9c6c-cb096fa11d83hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\60635275-ee71-4f6b-82fe-d126090f900ahinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\60635275-ee71-4f6b-82fe-d126090f900ahinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\61e7819c-9574-45ec-bdee-1c1131736648hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\61e7819c-9574-45ec-bdee-1c1131736648hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\62e55bc1-393e-4086-b88e-af4ed54c77eehinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\62e55bc1-393e-4086-b88e-af4ed54c77eehinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\674795f0-4f9b-49cd-858b-a04f35e9467dhinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\674795f0-4f9b-49cd-858b-a04f35e9467dhinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\6bb1aacb-84bd-40b2-a83f-e0042e214c87hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\6bb1aacb-84bd-40b2-a83f-e0042e214c87hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\6c3c3abc-497e-4847-9e29-9aa38e42541713144_ke-chia-buon.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\6c3c3abc-497e-4847-9e29-9aa38e42541713144_ke-chia-buon.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\73241377-03ea-4113-aac4-fc84c3e607029442_hoa-may-man.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\73241377-03ea-4113-aac4-fc84c3e607029442_hoa-may-man.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\78c2b1fa-ef7a-439d-b706-5e80a5f42808hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\78c2b1fa-ef7a-439d-b706-5e80a5f42808hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\78e30324-32f7-4448-8db8-54cae108bd3610693_pink-baby.png",
+      "PackagePath": "staticwebassets\\media\\sanpham\\78e30324-32f7-4448-8db8-54cae108bd3610693_pink-baby.png"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\7a53ecc5-57ac-40ee-be68-51ce8d503856bo-hoa-hong-cuoi-cam-tay.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\7a53ecc5-57ac-40ee-be68-51ce8d503856bo-hoa-hong-cuoi-cam-tay.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\7c78aba2-6c5c-4108-8d0a-70d8f8e59896hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\7c78aba2-6c5c-4108-8d0a-70d8f8e59896hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\913c4a0c-1b50-44cb-b9a5-1f7c0d3cd6cehinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\913c4a0c-1b50-44cb-b9a5-1f7c0d3cd6cehinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\92b12fda-cba2-43bf-a9c3-e0bc85dbe416hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\92b12fda-cba2-43bf-a9c3-e0bc85dbe416hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\9f717743-51a3-43c4-928a-dd39e4456265hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\9f717743-51a3-43c4-928a-dd39e4456265hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\9f73b405-ea11-4485-b2cd-4d8864bb5ed711867_tuoi-vui.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\9f73b405-ea11-4485-b2cd-4d8864bb5ed711867_tuoi-vui.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\a133173c-3cb0-48b8-b2cd-4f8d171afb5ehinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\a133173c-3cb0-48b8-b2cd-4f8d171afb5ehinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\a4ffa54f-2236-4474-8500-a792b3aa4dca4840_only-you.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\a4ffa54f-2236-4474-8500-a792b3aa4dca4840_only-you.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\afdef466-5def-499d-a40d-56b30c33a510hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\afdef466-5def-499d-a40d-56b30c33a510hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\b02e439d-8107-4752-a33f-1bf0fcb9e121hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\b02e439d-8107-4752-a33f-1bf0fcb9e121hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\b37c4a6c-63be-4bf3-b512-bf0cb5fb9745hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\b37c4a6c-63be-4bf3-b512-bf0cb5fb9745hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\b659e228-8d35-42b8-993b-b01f23a2efb4hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\b659e228-8d35-42b8-993b-b01f23a2efb4hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\b8b303b5-d4cc-4a43-ada7-ba6e85d9bda2hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\b8b303b5-d4cc-4a43-ada7-ba6e85d9bda2hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\b9ed1b3d-1f70-4449-9ae1-e7a5a1b088f3hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\b9ed1b3d-1f70-4449-9ae1-e7a5a1b088f3hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\bc89463d-0201-438a-8a2a-e84b54c26f8f4840_only-you.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\bc89463d-0201-438a-8a2a-e84b54c26f8f4840_only-you.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\cf4fe928-db21-48c4-819f-76ac2cd97056hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\cf4fe928-db21-48c4-819f-76ac2cd97056hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\d592f5c8-dd75-4e1c-bd5d-8b83a9b3c5e4hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\d592f5c8-dd75-4e1c-bd5d-8b83a9b3c5e4hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\dbdc93d5-adda-45b9-95ba-061de44ecf30hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\dbdc93d5-adda-45b9-95ba-061de44ecf30hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\dc11e6ef-0a88-4842-822a-5097691506cc8369_my-dear.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\dc11e6ef-0a88-4842-822a-5097691506cc8369_my-dear.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\e08ef63a-a45b-4e28-9ac2-5e8f14e71992hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\e08ef63a-a45b-4e28-9ac2-5e8f14e71992hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\e2ec726f-82be-4fbc-899e-213ef4dc4828hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\e2ec726f-82be-4fbc-899e-213ef4dc4828hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\e396fa5a-4c8a-4ec7-94af-a381ebde2b6chinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\e396fa5a-4c8a-4ec7-94af-a381ebde2b6chinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "D:\\NLCS HK1\\Shop_Flowers\\Shop_Flowers\\wwwroot\\media\\sanpham\\eb3c8de3-762c-4250-9eb9-2dcd206a1a90hinh-nen-may-tinh-de-thuong-21.jpg",
+      "PackagePath": "staticwebassets\\media\\sanpham\\eb3c8de3-762c-4250-9eb9-2dcd206a1a90hinh-nen-may-tinh-de-thuong-21.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop_Flowers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Shop_Flowers.props",
+      "PackagePath": "build\\Shop_Flowers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop_Flowers.props",
+      "PackagePath": "buildMultiTargeting\\Shop_Flowers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shop_Flowers.props",
+      "PackagePath": "buildTransitive\\Shop_Flowers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

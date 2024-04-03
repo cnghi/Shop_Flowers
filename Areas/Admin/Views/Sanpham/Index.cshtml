@@ -1,0 +1,42 @@
+﻿@model IEnumerable<SanphamModel>
+@{
+    ViewData["title"] = "Sanpham Listed";
+}
+<h3>Danh sách sản phẩm</h3>
+<a asp-area="Admin" asp-action="Create" asp-controller="Sanpham">Thêm</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Tên Sản Phẩm</th>
+            <th scope="col">Mô tả Sản phẩm</th>
+            <th scope="col">Giá sản phẩm</th>
+            <th scope="col">Hình ảnh sản phẩm</th>
+            <th scope="col">Slug</th>
+            <th scope="col">Danh mục</th>
+            <th scope="col">Loài hoa</th>
+            <th scope="col">Quản lý</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.IdSanpham</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Price</td>
+                <td><img style="width:50px" src="~/media/sanpham/@item.Image"></td>
+
+                <td>@item.Slug</td>
+                <td>@item.DanhmucId</td>
+                <td>@item.LoaihoaId</td>
+                <td>
+                    <a asp-action="Delete" class="btn btn-danger btn-sm" asp-controller="Sanpham" asp-route-Id="@item.IdSanpham">Xóa</a>
+                </td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>

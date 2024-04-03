@@ -1,0 +1,33 @@
+﻿@model IEnumerable<LoaihoaModel>
+@{
+    ViewData["title"] = "Loaihoa Listed";
+}
+<h3>Danh sách loài hoa</h3>
+<a asp-area="Admin" asp-action="Create" asp-controller="Loaihoa">Thêm Loài Hoa</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Tên loài hoa</th>
+            <th scope="col">Mô tả loài hoa</th>
+
+            <th scope="col">Slug</th>
+            <th scope="col">Trạng thái loài hoa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.IdLoaihoa</th>
+                <td>@item.Name</td>
+                <td>@Html.Raw(@item.Description)</td>
+                <td>@item.Slug</td>
+                <td>
+                    <a asp-action="Delete" class="btn btn-danger btn-sm" asp-controller="Loaihoa" asp-route-Id="@item.IdLoaihoa">Xóa</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
